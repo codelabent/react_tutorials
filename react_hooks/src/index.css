@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+input, button {
+  border: 1px solid #000;
+  background: lightgray;
+}

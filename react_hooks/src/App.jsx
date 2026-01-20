@@ -1,13 +1,11 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
+import UseRef from './components/UseRef';
 
 const App = () => {
   return (
-    <>
-      <h2 className="text-3xl font-bold underline">React Hooks</h2>
-    </>
+    <div>
+      <UseRef />
+    </div>
   );
 };
 
