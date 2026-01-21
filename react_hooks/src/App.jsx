@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div>
       <UseRef />
+      <p>깃 수정 테스트</p>
     </div>
   );
 };
